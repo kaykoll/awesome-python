@@ -4,6 +4,8 @@ Your contributions are always welcome!
 
 ## Guidelines
 
+Bitte sende eine Email an kdkdkdk@dd.com
+
 * Add one link per Pull Request.
     * Make sure the PR title is in the format of `Add project-name`.
     * Write down the reason why the library is awesome.
